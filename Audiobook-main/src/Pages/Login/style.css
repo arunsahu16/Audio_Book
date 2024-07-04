@@ -1,0 +1,59 @@
+.login-back {
+    margin-top: 60px;
+}
+
+.logo-link img:hover {
+    transition: all 0.3s ease-in-out 0s;
+    transform: scale(1.1);
+}
+
+.other-auth .other-auth-btn:hover {
+    transition: all 0.3s ease-in-out 0s;
+    transform: scale(1.05);
+    box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.5);
+}
+
+.form-btn button:hover {
+    transition: all 0.3s ease-in-out 0s;
+    transform: scale(1.05);
+    background-color: black;
+}
+
+.addn-info .addn-info-text {
+    color: #737382;
+}
+
+.addn-info .addn-info-text:hover {
+    transition: all 0.3s ease-in-out 0s;
+    transform: scale(1.05);
+    color: #199FD9;
+}
+
+.other-auth h6:hover {
+    color: #e84545;
+    transition: all 0.3s ease-in-out 0s;
+    transform: scale(1.05);
+    font-weight: 600;
+}
+
+.spinner-grow {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    margin-right: 3px;
+    vertical-align: text-bottom;
+    border: 0.25em solid currentColor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    animation: spinner-grow 0.75s linear infinite;
+}
+
+.apple-text {
+    text-transform: none !important;
+    font-size: 1.2em;
+}
+
+.bi-apple {
+    font-size: 1.3em;
+    margin-left: -10px;
+}
